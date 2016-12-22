@@ -1,0 +1,19 @@
+{
+  "name": "leycodex-web",
+  "version": "1.0.0",
+  "description": "leycodex.es site",
+  "main": "indxe.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cobeete/leycodex-web.git"
+  },
+  "author": "Manuel Bordallo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cobeete/leycodex-web/issues"
+  },
+  "homepage": "https://github.com/cobeete/leycodex-web#readme"
+}
