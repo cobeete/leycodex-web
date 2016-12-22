@@ -1,4 +1,4 @@
 baseurl = "http://leycodex.com"
 title = "Leycodex"
 languageCode = "en-us"
-theme = "hugoscroll"
+theme = "blank"
