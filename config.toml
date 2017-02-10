@@ -2,3 +2,74 @@ baseurl = "http://leycodex.com"
 title = "Leycodex"
 languageCode = "en-us"
 theme = "blank"
+defaultContentLanguage = "es"
+
+
+# [languages]
+# [languages.es]
+# weight = 0
+# languageName = "Spanish"
+
+# [[languages.es.menu.main]]
+# url    = "/accidentes"
+# name   = "Accidentes de Tráfico, consiga su indemnización"
+# weight = 0
+
+# [[languages.es.menu.main]]
+# url    = "/herencias"
+# name   = "Herencias"
+# weight = 0
+
+# [[languages.es.menu.main]]
+# url    = "/divorcios"
+# name   = "Divorcios y Separaciones"
+# weight = 0
+
+# [[languages.es.menu.main]]
+# url    = "/laboral"
+# name   = "Derecho Laboral: Despidos y reclamaciones de cantidad"
+# weight = 0
+
+# [[languages.es.menu.main]]
+# url    = "/incapacidades"
+# name   = "Incapacidades Laboral, Accidentes Laborales, Reclamaciones de Pensión por incapacidad o minusvalía"
+# weight = 0
+
+# [[languages.es.menu.main]]
+# url    = "/penal"
+# name   = "Derecho Penal"
+# weight = 0
+
+#[languages.en]
+#weight = 0
+#languageName = "English"
+
+#[[languages.en.menu.accidentes]]
+#url    = "/accidentes"
+#name   = "Accidentes de Tráfico, consiga su indemnización."
+#weight = 0
+
+#[[languages.en.menu.herencias]]
+#url    = "/herencias"
+#name   = "Herencias"
+#weight = 0
+
+#[[languages.en.menu.divorcios]]
+#url    = "/divorcios"
+#name   = "Divorcios y Separaciones"
+#weight = 0
+
+#[[languages.en.menu.laboral]]
+#url    = "/laboral"
+#name   = "Derecho Laboral: Despidos y reclamaciones de cantidad"
+#weight = 0
+
+#[[languages.en.menu.incapacidades]]
+#url    = "/incapacidades"
+#name   = "Incapacidades Laboral, Accidentes Laborales, Reclamaciones de Pensión por incapacidad o minusvalía"
+#weight = 0
+
+#[[languages.en.menu.penal]]
+#url    = "/penal"
+#name   = "Derecho Penal"
+#weight = 0

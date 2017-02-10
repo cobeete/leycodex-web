@@ -1,0 +1,8 @@
+{{ partial "header.html" . }}
+	<main>
+		{{ $paginator := .Paginate (where .Site.Pages "Type" "post") }}
+		{{ range $paginator.Pages }}
+			<h1><a href="{{ .Permalink }}">{{ .Title }}</a></h1>
+		{{ end }}
+	</main>
+{{ partial "footer.html" . }}
